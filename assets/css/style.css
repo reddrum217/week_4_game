@@ -23,8 +23,10 @@ body {
 }
 
 #good {
-	background: blue;
+	background-color: rgba(0,0,255,0.5);
 	color: white;
+    height: 350px;
+    /*width: 350px;*/
 }
 
 #bad {
@@ -51,10 +53,26 @@ div.transbox p {
 	height: 400px;
 }
 
-/*#span1 {
-	color: blue;
+section {
+    /*width: 100px;*/
+    /*position: inline;*/
+    margin: 5px;
+    background: black;
 }
 
-#span2 {
-	color: red;
-}*/
+.sectionspecs {
+    max-height: 100px;
+    width: 100%;
+    /*padding: 21px;*/
+    /*border: 100px;*/
+    background: black;
+    /*float: left;*/
+    position: left;
+    /*margin-top: 6px;*/
+    /*margin-top: 10px;*/
+   /* padding-top: 10px;*/
+    margin-right: 0px;
+    /*text-decoration-line: 5px;*/
+}
+
+

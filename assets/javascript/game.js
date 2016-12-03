@@ -17,7 +17,7 @@
 // 17. Play music in the 
 
 
-$('#good').on('click', function(){
-	alert("hi");
-});
+// $('#good').on('click', function(){
+// 	alert("hi");
+// });
 
