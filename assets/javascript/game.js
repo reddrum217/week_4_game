@@ -1,7 +1,40 @@
-// 1. Place a value on the attack and health on all the characters.
-// 2. Make an arrray for the good characters.
+//Test javascript.
+// $('#good').on('click', function(){
+// 	alert("hi");
+// });
+
+// $('.p1').on('click', function(){
+// 	alert('hi');
+// })
+
+// $('.p1').html('NEW HEALTH');
+
+
+// 1. Place a value on the Health Points, Atack Power, and Counter Attack Power on characters.
+var goodHealth = [200, 175, 150, 125];
+var goodAttack = [3, 6, 9, 12];
+var goodCounter = function (){
+	if (goodAttack[0])*3;
+	else if (goodAttack[1])*6;
+	else if (goodAttack[2])*9;
+	else (goodAttack[3])*12;
+}
+
+
+// 2. Make an arrrays for the good characters.
+var ray {
+	reyHealth: 200;
+	reyAttack: 3;
+	reyCounterAttack = function(){
+		// every time attack button is hit add reyAttack + reyAttack
+	}
+}
+
 // 3. Make a seaparate arrary for the bad characters.
+
 // 4. Allow the player to choose his character from either the good list or the bad list.
+var userChoiceChar = ('onclick')
+
 // 5. When character is chosen position the players choice in the top center of the screen.
 // 6. Disable the rest of the characters from the list of the players choice.
 // 7. Prompt the user to choose an enemy to attack from the opposite side of the screen.
@@ -17,7 +50,6 @@
 // 17. Play music in the 
 
 
-// $('#good').on('click', function(){
-// 	alert("hi");
-// });
+
+
 
